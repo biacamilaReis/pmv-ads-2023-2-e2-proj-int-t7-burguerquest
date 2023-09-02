@@ -8,14 +8,33 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-| | |
-|---|---|
-| **Idade:** 23 anos | **Ocupação:** Estudante universitário (Engenharia de Software) |
-| **Quem Sou:** Um jovem animado e cheio de energia, apaixonado por explorar as diferentes facetas da vida. Com uma personalidade extrovertida e amigável, ele tem facilidade para fazer novas amizades e se conectar com pessoas de diferentes origens. Sua curiosidade o impulsiona a buscar constantemente novas experiências e oportunidades. | |
-| **Aplicativos Favoritos:** Usuário de aplicativos de streaming, onde pode assistir a seus animes e séries favoritas. Além disso, ele também usa aplicativos de mensagens para se manter conectado com seus amigos, planejar encontros e compartilhar memes engraçados. | |
-| **Motivações:** Lucas é motivado pelo desejo de crescimento pessoal e profissional. Ele está sempre em busca de desafios que o ajudem a expandir seus horizontes e adquirir novos conhecimentos. Além disso, a amizade e a convivência com seus amigos são extremamente importantes para ele, e ele valoriza cada momento compartilhado. | |
-| **Comida Favorita:** Lucas é um grande fã de hambúrgueres gourmet. Ele adora experimentar diferentes combinações de ingredientes, desde os clássicos até os mais criativos e extravagantes. Para ele, comer um bom hambúrguer é uma experiência que mistura sabor e socialização. | |
-| **Motivos para Usar um Aplicativo de Delivery:** Como estudante universitário, Lucas pode ter dias ocupados com aulas, projetos e estudos. O serviço de delivery permitiria que ele desfrutasse de seus hambúrgueres favoritos sem a necessidade de deslocamento. Ele pode continuar focado em suas atividades enquanto espera pela entrega. | |
+<TABLE>
+	<TR>
+		<TD rowspan='2'><img ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/753cf846-1d55-4493-8737-4336efb6e47a) style='height: 100px'></TD>
+		<TD colspan='2'>Pedro Carlos</TD>
+	</TR>
+	<TR>
+		<TD>Idade: 35<BR><BR>
+  Dados Principais: Pedro é um nutricionista apaixonado pela promoção da saúde e do bem-estar através da alimentação equilibrada. Ele administra sua própria clínica de nutrição, atendendo uma variedade de pacientes.
+  <TD><BR>
+<BR>
+  Hábitos: Pedro está sempre atualizado sobre as últimas pesquisas em nutrição e participa de conferências e workshops para aprimorar suas habilidades profissionais.
+Ele mantém um blog e perfis nas redes sociais, compartilhando dicas de alimentação saudável e receitas nutritivas.</TD>
+</TR>
+<TD>Hobbies:<BR>
+    Corrida, culinária experimental e leitura de artigos científicos.
+</TD>
+  <TD>Objetivos:<BR>
+    Oferecer um atendimento personalizado aos pacientes, ajudando-os a alcançar seus objetivos de saúde através de mudanças na dieta.
+Expandir sua clínica e alcançar um público mais amplo, incluindo atletas, idosos e indivíduos com necessidades específicas de saúde.
+</TD>
+  <TD>Frustrações:<BR>
+    Lidar com o desafio de otimizar sua agenda para atender ao grande volume de pacientes sem comprometer a qualidade do atendimento.
+Encontrar maneiras eficientes de monitorar e controlar os custos operacionais da clínica, garantindo um equilíbrio saudável entre a qualidade do serviço e a saúde financeira.
+</TR>
+</TABLE>
+
+<TABLE>
 
 
 Aplicativos favoritos: Usuário de aplicativos de streaming, onde pode assistir a seus animes e séries favoritas. Além disso, ele também usa aplicativos de mensagens para se manter conectado com seus amigos, planejar encontros e compartilhar memes engraçados.     | Alterar permissões                 | Permitir que possam administrar contas |
