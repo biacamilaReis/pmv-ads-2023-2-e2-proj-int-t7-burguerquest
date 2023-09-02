@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Lucas Antonio Miranda da Silva
 * Matheus Marques Aguiar
 
-*** Projeto: Aplicação Interativa - BurguerQuest
+Projeto: Aplicação Interativa - BurguerQuest
 
 ## Orientador
 
