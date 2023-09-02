@@ -8,10 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|Lucas Montano| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/478ff0c2-7cab-4f7d-bd7d-58d83273fa82) | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Idade: 23 anos Ocupação: Estudante universitário (Engenharia de Software) Quem sou: Um jovem animado e cheio de energia, apaixonado por explorar as diferentes facetas da vida. Com uma personalidade extrovertida e amigável, ele tem facilidade para fazer novas amizades e se conectar com pessoas de diferentes origens. Sua curiosidade o impulsiona a buscar constantemente novas experiências e oportunidades. 
+| | |
+|---|---|
+| **Idade:** 23 anos | **Ocupação:** Estudante universitário (Engenharia de Software) |
+| **Quem Sou:** Um jovem animado e cheio de energia, apaixonado por explorar as diferentes facetas da vida. Com uma personalidade extrovertida e amigável, ele tem facilidade para fazer novas amizades e se conectar com pessoas de diferentes origens. Sua curiosidade o impulsiona a buscar constantemente novas experiências e oportunidades. | |
+| **Aplicativos Favoritos:** Usuário de aplicativos de streaming, onde pode assistir a seus animes e séries favoritas. Além disso, ele também usa aplicativos de mensagens para se manter conectado com seus amigos, planejar encontros e compartilhar memes engraçados. | |
+| **Motivações:** Lucas é motivado pelo desejo de crescimento pessoal e profissional. Ele está sempre em busca de desafios que o ajudem a expandir seus horizontes e adquirir novos conhecimentos. Além disso, a amizade e a convivência com seus amigos são extremamente importantes para ele, e ele valoriza cada momento compartilhado. | |
+| **Comida Favorita:** Lucas é um grande fã de hambúrgueres gourmet. Ele adora experimentar diferentes combinações de ingredientes, desde os clássicos até os mais criativos e extravagantes. Para ele, comer um bom hambúrguer é uma experiência que mistura sabor e socialização. | |
+| **Motivos para Usar um Aplicativo de Delivery:** Como estudante universitário, Lucas pode ter dias ocupados com aulas, projetos e estudos. O serviço de delivery permitiria que ele desfrutasse de seus hambúrgueres favoritos sem a necessidade de deslocamento. Ele pode continuar focado em suas atividades enquanto espera pela entrega. | |
+
 
 Aplicativos favoritos: Usuário de aplicativos de streaming, onde pode assistir a seus animes e séries favoritas. Além disso, ele também usa aplicativos de mensagens para se manter conectado com seus amigos, planejar encontros e compartilhar memes engraçados.     | Alterar permissões                 | Permitir que possam administrar contas |
 
