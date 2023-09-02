@@ -8,7 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|Lucas Montano| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|Lucas Montano| Idade: 23 anos
+
+Ocupação: Estudante universitário (Engenharia de Software)
+
+Quem sou: 
+Um jovem animado e cheio de energia, apaixonado por explorar as diferentes facetas da vida. Com uma personalidade extrovertida e amigável, ele tem facilidade para fazer novas amizades e se conectar com pessoas de diferentes origens. Sua curiosidade o impulsiona a buscar constantemente novas experiências e oportunidades.
+
+Aplicativos favoritos: Usuário de aplicativos de streaming, onde pode assistir a seus animes e séries favoritas. Além disso, ele também usa aplicativos de mensagens para se manter conectado com seus amigos, planejar encontros e compartilhar memes engraçados.
+ |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/d4bb1659-2873-48a8-b92d-0d846055ed5e)
   | Registrar minhas tarefas           | Não esquecer de fazê-las               |
