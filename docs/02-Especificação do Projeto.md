@@ -10,16 +10,16 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 <TABLE>
 	<TR>
-		<TD rowspan='2'><img ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/753cf846-1d55-4493-8737-4336efb6e47a) style='height: 100px'></TD>
-		<TD colspan='2'>Pedro Carlos</TD>
+		<TD rowspan='2'><img style='height: 100px'></TD>
+		<TD colspan='2'>Lucas Montano</TD>
 	</TR>
 	<TR>
-		<TD>Idade: 35<BR><BR>
-  Dados Principais: Pedro é um nutricionista apaixonado pela promoção da saúde e do bem-estar através da alimentação equilibrada. Ele administra sua própria clínica de nutrição, atendendo uma variedade de pacientes.
+		<TD>Idade:23<BR><BR>
+ Ocupação: Estudante universitário (Engenharia de Software)
   <TD><BR>
 <BR>
-  Hábitos: Pedro está sempre atualizado sobre as últimas pesquisas em nutrição e participa de conferências e workshops para aprimorar suas habilidades profissionais.
-Ele mantém um blog e perfis nas redes sociais, compartilhando dicas de alimentação saudável e receitas nutritivas.</TD>
+  Quem sou: 
+Um jovem animado e cheio de energia, apaixonado por explorar as diferentes facetas da vida. Com uma personalidade extrovertida e amigável, ele tem facilidade para fazer novas amizades e se conectar com pessoas de diferentes origens. Sua curiosidade o impulsiona a buscar constantemente novas experiências e oportunidades </TD>
 </TR>
 <TD>Hobbies:<BR>
     Corrida, culinária experimental e leitura de artigos científicos.
