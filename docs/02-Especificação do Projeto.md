@@ -13,9 +13,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
             <td colspan="4" align="center"><b>Lucas Montano</b></td>
         </tr>
 	 <tr>
-            <td colspan="4">
-		    ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/f524a9c9-9808-42aa-b9f7-621976404078)
-            </td>
+            <td colspan="4"> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/d6c47bea-5fa0-4a28-ba87-82ad93d332d5)
+ </td>
         </tr>
         <tr>
             <td><i><strong>Idade:</strong></i> 23 anos</td>
@@ -46,6 +45,129 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 		    <strong><i>Motivos de Lucas usar um aplicativo de delivery:</i></strong><BR>
                     Como estudante universitário, Lucas pode ter dias ocupados com aulas, projetos e estudos. O serviço de delivery permitiria que ele desfrutasse de seus hambúrgueres favoritos sem a necessidade de deslocamento. Ele pode 
                     continuar focado em suas atividades enquanto espera pela entrega.
+            </td>
+        </tr>
+		    </table>
+      <!-- Divisão entre uma persona e outra --> 
+       <table border="1">
+        <tr>
+            <td colspan="4" align="center"><b>Isabel Garcia </b></td>
+        </tr>
+	 <tr>
+            <td colspan="4"> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/f252f433-8ce0-4e1d-98bf-2173d2f6d4ad)
+
+ </td>
+        </tr>
+        <tr>
+            <td><i><strong>Idade:</strong></i> 40 anos</td>
+            <td>
+		    <i><strong>Ocupação:</strong></strong><BR>Mãe e Dona de Casa 
+	    </td>
+            <td>
+		    <strong><i>Quem sou:</i></strong><BR> 
+ 		    Isabel é uma mãe dedicada que encontra alegria em proporcionar momentos especiais através da comida. Ela é conhecida por sua criatividade na cozinha e sua habilidade em preparar refeições que agradam a todos os gostos da 
+                    família. Sua paixão por cozinhar é uma forma de expressão e amor
+	    </td>
+            <td>
+		    <strong><i>Aplicativos favoritos:</i></strong><BR> Instagram, Facebook, e aplicativos de receitas e dicas culinárias para expandir seu repertório culinário. 
+	    </td>
+        </tr>
+	  <tr>
+            <td>
+		    <strong><i>Motivações:</i></strong><br>
+                    Isabel encontra satisfação em proporcionar refeições que unam sua família. Ela valoriza o tempo que passa com seus filhos e marido em torno da mesa, compartilhando histórias e sabores únicos. 
+            </td>
+            <td>
+		    <strong><i>Comida favorita:</i></strong><br>
+                    Isabel adora comida caseira e receitas que misturam elementos tradicionais com um toque de inovação. Ela aprecia ingredientes frescos e combinações que tragam um sorriso ao rosto de seus filhos
+           </td>
+            <td>
+		    <strong><i>Motivos de Lucas usar um aplicativo de delivery:</i></strong><BR>
+                    A Hamburgueria se tornou um local onde Isabel encontra opções que a permitem expressar sua criatividade culinária enquanto satisfaz os gostos de sua família. Ela escolhe hambúrgueres que combinam sabores familiares com toques 
+                     japoneses divertidos, adicionando um toque único às refeições caseiras. O serviço de delivery oferece a praticidade que ela precisa em dias mais agitados, permitindo que ela compartilhe momentos saborosos e especiais com 
+                   seus entes queridos, mesmo em meio a uma agenda movimentada como mãe e dona de casa. 
+            </td>
+        </tr>
+    </table>
+    <!-- Divisão entre uma persona e outra --> 
+       <table border="1">
+        <tr>
+            <td colspan="4" align="center"><b>Rafael Ferreira </b></td>
+        </tr>
+	 <tr>
+            <td colspan="4"> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/ac11ab18-c560-45a6-a330-c67487f7fa84)
+
+
+ </td>
+        </tr>
+        <tr>
+            <td><i><strong>Idade:</strong></i>25 anos </td>
+            <td>
+		    <i><strong>Ocupação:</strong></strong><BR>: Desenvolvedor de Jogos    
+	    </td>
+            <td>
+		    <strong><i>Quem sou:</i></strong><BR> 
+ 		    Rafael é um desenvolvedor de jogos apaixonado por desafios e aventuras. Ele adora criar mundos virtuais envolventes e desafiadores, e sempre está em busca de novas ideias para seus projetos. Sua mentalidade inovadora o leva a 
+                    explorar tecnologias emergentes.
+	    </td>
+            <td>
+		    <strong><i>Aplicativos favoritos:</i></strong><BR> Além do app de delivery, ele utiliza plataformas de aprendizado online para se manter atualizado nas últimas tecnologias de desenvolvimento. 
+	    </td>
+        </tr>
+	  <tr>
+            <td>
+		    <strong><i>Motivações:</i></strong><br>
+                    Isabel encontra satisfação em proporcionar refeições que unam sua família. Ela valoriza o tempo que passa com seus filhos e marido em torno da mesa, compartilhando histórias e sabores únicos. 
+            </td>
+            <td>
+		    <strong><i>Comida favorita:</i></strong><br>
+                    Isabel adora comida caseira e receitas que misturam elementos tradicionais com um toque de inovação. Ela aprecia ingredientes frescos e combinações que tragam um sorriso ao rosto de seus filhos
+           </td>
+            <td>
+		    <strong><i>Motivos de Lucas usar um aplicativo de delivery:</i></strong><BR>
+                    Rafael está constantemente em busca de desafios que estimulem sua criatividade e o levem a novos patamares em sua carreira. Ele valoriza momentos de relaxamento onde pode recarregar suas energias para enfrentar novosprojetos. 
+                    Comida favorita: pizza, hamburguer e feijoada
+            </td>
+        </tr>
+    </table>
+    <!-- Divisão entre uma persona e outra --> 
+       <table border="1">
+        <tr>
+            <td colspan="4" align="center"><b>Ana Torres  </b></td>
+        </tr>
+	 <tr>
+            <td colspan="4"> ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t7-burguerquest/assets/128400414/028a8a33-e357-42d6-9a97-0c4892594c64)
+
+
+ </td>
+        </tr>
+        <tr>
+            <td><i><strong>Idade:</strong></i>28 anos </td>
+            <td>
+		    <i><strong>Ocupação:</strong></strong><BR>: Designer Gráfica     
+	    </td>
+            <td>
+		    <strong><i>Quem sou:</i></strong><BR> 
+ 		    Ana é uma designer criativa e imaginativa. Ela adora explorar novas formas de expressão artística e sempre está em busca de inspiração. Sua mente curiosa a leva a mergulhar em diferentes culturas e estilos, e ela valoriza o 
+                    poder das histórias para conectar pessoas
+	    </td>
+            <td>
+		    <strong><i>Aplicativos favoritos:</i></strong><BR>aplicativos de edição de fotos e redes sociais para compartilhar seu trabalho e se conectar com outros artistas. 
+	    </td>
+        </tr>
+	  <tr>
+            <td>
+		    <strong><i>Motivações:</i></strong><br>
+                    Ana busca constantemente por formas de estimular sua criatividade e se sentir parte de uma comunidade que compartilha seus interesses. Ela valoriza momentos de descontração entre amigos, onde podem discutir teorias de séries 
+                    e desfrutar de boa comida. 
+            </td>
+            <td>
+		    <strong><i>Comida favorita:</i></strong><br>
+                    Ana é fã de hambúrgueres com toques criativos. Ela adora experimentar combinações inusitadas de sabores que despertem sua imaginação
+           </td>
+            <td>
+		    <strong><i>Motivos de Lucas usar um aplicativo de delivery:</i></strong><BR>
+                     Para facilitar a dinâmica do seu dia corrido sem perder a oportunidade de se alimentar com algo gostoso, entusiasta e rápido. 
             </td>
         </tr>
     </table>
