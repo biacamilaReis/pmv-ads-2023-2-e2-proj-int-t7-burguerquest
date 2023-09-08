@@ -172,15 +172,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
         </tr>
     </table>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
 
 ## Histórias de Usuários
 
@@ -193,12 +185,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
@@ -208,30 +194,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Cadastro de Usuário: Os usuários devem ter a capacidade de se registrar no site | Alta | 
+|RF-002| Menu Interativo e Temático: O site deve apresentar um menu interativo que destaque os animes disponíveis |  Media | 
+|RF-003| Permitir que o perfil de administrador consiga alterar o conteudo do cardapio |  Media | 
+|RF-004| O sistema deve permitir o usuario alterar suas informações de cadastro: email e senha |  Alta | 
+|RF-005| O site deve oferecer aos usuários a capacidade de realizar buscas precisas de lanches de acordo com diferentes critérios. Isso inclui a opção de buscar lanches com base no nome do anime associado a eles, bem como a habilidade de pesquisar por nome do lanche e preço. |  BAIXA | 
+|RF-006| O site deve apresentar um sistema de acompanhamento que exiba o progresso do usuário em cada trilha de quests. Esse sistema informará aos usuários o status atual do seu progresso, o que eles já conquistaram e o que falta para desbloquear os prêmios exclusivos de cada missão. |  Alta | 
+|RF-007| o site deve ser capaz de enviar e-mails aos usuários, com o propósito de lembrá-los da utilização da aplicação |  BAIXA | 
+|RF-008| O site deve oferecer aos usuários a capacidade de avaliar os hambúrgueres em uma escala de 1 a 5 estrelas |  Media | 
+|RF-009| O site deve contar com um banco de dados capaz de suportar todos os requisitos |  Alta | 
+|RF-010| Sistema de Pagamento Simplificado e Direto via WhatsApp: Quando um cliente fizer um pedido, o sistema deve redirecioná-lo automaticamente para o WhatsApp do BurguerQuest, onde enviaremos o ID do pedido e todas as informações necessárias. Nesse ambiente, os clientes receberão de forma conveniente o QR code, chave Pix e outras opções de pagamento seguras para concluir a transação de forma direta e eficiente. Isso proporcionará uma experiência de pagamento descomplicada e imediata aos nossos clientes. |  BAIXA | 
+|RF-011| O site deve implantar APIs de redes sociais para possibilitar que os usuários compartilhem suas experiências, atividades e conquistas do BurguerQuest em suas redes sociais pessoais. |  BAIXA | 
+
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Alto contraste de cores entre os elementos da interface |  BAIXA | 
+|RNF-003| O site deve ser compativel com diversos tipos de navegadores |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -240,14 +225,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não deve ser contrato nenhum tipo de serviço externo para criação do site |
+|02| Não deve exceder as tecnologias proprosta para essa etapa do projeto |
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
